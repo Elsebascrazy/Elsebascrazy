@@ -1,0 +1,64 @@
+<svg width="760" height="768" viewBox="0 0 760 768" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0f0c29"/>
+    <stop offset="50%" stop-color="#302b63"/>
+    <stop offset="100%" stop-color="#24243e"/>
+  </linearGradient>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <linearGradient id="grad0" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#E34F26"/>
+    <stop offset="100%" stop-color="#F06529"/>
+  </linearGradient>
+  <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#3776AB"/>
+    <stop offset="100%" stop-color="#FFD43B"/>
+  </linearGradient>
+  <linearGradient id="grad2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#F7DF1E"/>
+    <stop offset="100%" stop-color="#F0DB4F"/>
+  </linearGradient>
+  <linearGradient id="grad3" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#4479A1"/>
+    <stop offset="100%" stop-color="#00758F"/>
+  </linearGradient>
+  <linearGradient id="grad4" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#61DAFB"/>
+    <stop offset="100%" stop-color="#00D8FF"/>
+  </linearGradient>
+  <linearGradient id="grad5" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#777BB4"/>
+    <stop offset="100%" stop-color="#8892BF"/>
+  </linearGradient>
+  <linearGradient id="grad6" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#ED8B00"/>
+    <stop offset="100%" stop-color="#F58219"/>
+  </linearGradient>
+  <linearGradient id="grad7" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#FF2D20"/>
+    <stop offset="100%" stop-color="#FF6B57"/>
+  </linearGradient>
+  <linearGradient id="grad8" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#003B57"/>
+    <stop offset="100%" stop-color="#0F80CC"/>
+  </linearGradient>
+  <linearGradient id="grad9" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#F80000"/>
+    <stop offset="100%" stop-color="#C74634"/>
+  </linearGradient>
+  <linearGradient id="grad10" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#FF9900"/>
+    <stop offset="100%" stop-color="#FFB84D"/>
+  </linearGradient>
+  <linearGradient id="grad11" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#0078D4"/>
+    <stop offset="100%" stop-color="#50E6FF"/>
+  </linearGradient>
+</defs>
+<rect x="0" y="0" width="760" height="768" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="758" height="766" rx="17" fill="none" stroke="#7f5af0" stroke-opacity="0.35"/><text x="40" y="46" font-family="Consolas, 'Courier New', monospace" font-size="24" font-weight="700" fill="#ffffff" letter-spacing="2">&gt; NIVEL_DE_HABILIDAD.exe</text><line x1="40" y1="62" x2="720" y2="62" stroke="#7f5af0" stroke-width="1" stroke-opacity="0.4"/><text x="40" y="116" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">HTML / CSS</text><rect x="190" y="104" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="104" width="0" height="16" rx="8" fill="url(#grad0)" filter="url(#glow)"><animate attributeName="width" from="0" to="299.0" dur="1.2s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="116" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">65%</text><text x="40" y="170" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">Python</text><rect x="190" y="158" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="158" width="0" height="16" rx="8" fill="url(#grad1)" filter="url(#glow)"><animate attributeName="width" from="0" to="276.0" dur="1.2s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="170" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">60%</text><text x="40" y="224" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">JavaScript</text><rect x="190" y="212" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="212" width="0" height="16" rx="8" fill="url(#grad2)" filter="url(#glow)"><animate attributeName="width" from="0" to="253.0" dur="1.2s" begin="0.30s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="224" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">55%</text><text x="40" y="278" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">MySQL</text><rect x="190" y="266" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="266" width="0" height="16" rx="8" fill="url(#grad3)" filter="url(#glow)"><animate attributeName="width" from="0" to="230.0" dur="1.2s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="278" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">50%</text><text x="40" y="332" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">React</text><rect x="190" y="320" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="320" width="0" height="16" rx="8" fill="url(#grad4)" filter="url(#glow)"><animate attributeName="width" from="0" to="207.0" dur="1.2s" begin="0.60s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="332" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">45%</text><text x="40" y="386" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">PHP</text><rect x="190" y="374" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="374" width="0" height="16" rx="8" fill="url(#grad5)" filter="url(#glow)"><animate attributeName="width" from="0" to="184.0" dur="1.2s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="386" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">40%</text><text x="40" y="440" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">Java</text><rect x="190" y="428" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="428" width="0" height="16" rx="8" fill="url(#grad6)" filter="url(#glow)"><animate attributeName="width" from="0" to="161.0" dur="1.2s" begin="0.90s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="440" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">35%</text><text x="40" y="494" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">Laravel</text><rect x="190" y="482" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="482" width="0" height="16" rx="8" fill="url(#grad7)" filter="url(#glow)"><animate attributeName="width" from="0" to="161.0" dur="1.2s" begin="1.05s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="494" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">35%</text><text x="40" y="548" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">SQLite</text><rect x="190" y="536" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="536" width="0" height="16" rx="8" fill="url(#grad8)" filter="url(#glow)"><animate attributeName="width" from="0" to="161.0" dur="1.2s" begin="1.20s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="548" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">35%</text><text x="40" y="602" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">Oracle DB</text><rect x="190" y="590" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="590" width="0" height="16" rx="8" fill="url(#grad9)" filter="url(#glow)"><animate attributeName="width" from="0" to="115.0" dur="1.2s" begin="1.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="602" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">25%</text><text x="40" y="656" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">AWS</text><rect x="190" y="644" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="644" width="0" height="16" rx="8" fill="url(#grad10)" filter="url(#glow)"><animate attributeName="width" from="0" to="92.0" dur="1.2s" begin="1.50s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="656" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">20%</text><text x="40" y="710" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#e6e6f0">Azure</text><rect x="190" y="698" width="460" height="16" rx="8" fill="#1a1a2e" stroke="#3d3d5c" stroke-width="1"/><rect x="190" y="698" width="0" height="16" rx="8" fill="url(#grad11)" filter="url(#glow)"><animate attributeName="width" from="0" to="92.0" dur="1.2s" begin="1.65s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><text x="666" y="710" font-family="Consolas, monospace" font-size="15" font-weight="700" fill="#ffffff">20%</text></svg>
