@@ -40,5 +40,4 @@
 <rect x="845" y="20" width="16" height="12" rx="1" fill="#eaf6ff" stroke="#0a3a8a" stroke-width="1"/>
 <path d="M845 20 l8 6 l8 -6" fill="none" stroke="#0a3a8a" stroke-width="1"/>
 
-<text x="895" y="35" font-family="Consolas, monospace" font-size="13" fill="#ffffff" text-anchor="end">11:47 PM</text>
 </svg>
