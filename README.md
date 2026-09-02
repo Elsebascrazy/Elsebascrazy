@@ -1,51 +1,53 @@
-<h1 align="center">SEBAS | STUDENT</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Interested+in+Cloud+Architecture;Learning+Web+Design+%26+Full+Stack+Dev" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-6C63FF?style=for-the-badge&labelColor=1a1a2e">
-  <img src="https://img.shields.io/badge/LOCATION-Mexico-6C63FF?style=for-the-badge&labelColor=1a1a2e">
-  <img src="https://img.shields.io/badge/FOCUS-Cloud%20%2B%20Web%20Design-6C63FF?style=for-the-badge&labelColor=1a1a2e">
-</p>
-
-<br>
-
-## 👋 About me
-
-I'm **Sebas**, a Software Engineering student. I'm learning Python, React, Laravel and Java, and I'm especially interested in cloud architecture (AWS, Azure) and web design. This profile will keep growing as I learn.
-
-<br>
-
-## 🧰 Tech stack (learning)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,react,php,laravel,java,mysql,sqlite,aws,azure,figma,git,vscode,github&theme=dark&perline=8"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle_DB-1a1a2e?style=for-the-badge&logo=oracle&logoColor=F80000">
-</p>
-
-<br>
-
-## 📊 Skill level
-
-<p align="center">
-  <img src="./assets/skills-bars.svg" alt="Skill level per technology" width="760"/>
-</p>
-
-<br>
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://github.com/Elsebascrazy">
-    <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elsebascrazy&style=for-the-badge&color=6C63FF&label=VISITORS"/>
-</p>
+README
+<div align="center">
+<img src="./assets/chrome-banner.svg" alt="Sebas — Web Designer Archive" width="900"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=1c5fc7&center=true&vCenter=true&width=700&lines=SOFTWARE+ENGINEERING+STUDENT;CLOUD+ARCHITECTURE+ENTHUSIAST;LEARNING+WEB+DESIGN+%26+FULL+STACK" alt="Typing SVG"/>
+<img src="./assets/y2k-navpills.svg" alt="nav" width="900"/>
+<br/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-1c5fc7?style=for-the-badge&labelColor=ECE9D8&logo=googlechrome&logoColor=1c5fc7">
+<img src="https://img.shields.io/badge/LOCATION-MEXICO-1c5fc7?style=for-the-badge&labelColor=ECE9D8&logo=googlemaps&logoColor=1c5fc7">
+<img src="https://img.shields.io/badge/FOCUS-CLOUD %2B WEB DESIGN-1c5fc7?style=for-the-badge&labelColor=ECE9D8&logo=icloud&logoColor=1c5fc7">
+<br/>
+<img src="https://img.shields.io/badge/BEST VIEWED AT-1024x768-ECE9D8?style=flat-square&labelColor=1c5fc7">
+<img src="https://img.shields.io/badge/BUILD-v2.0-ECE9D8?style=flat-square&labelColor=1c5fc7">
+</div>
+<img src="./assets/chrome-divider.svg" width="100%"/>
+<div align="center">
+💾 ABOUT ME
+</div>
+┌─[ about_me.txt — Notepad ]───────────────────────────────[_][□][X]─┐
+│                                                                     │
+│  Soy Sebas — estudiante de Ingeniería en Software.                 │
+│  Aprendiendo Python, React, Laravel y Java.                        │
+│                                                                     │
+│  Interesado en arquitectura cloud (AWS, Azure) y diseño web.       │
+│  Este perfil crece conforme aprendo cosas nuevas.                  │
+│                                                                     │
+│  > destiny can be changed only in the present                      │
+│                                                            -sebas   │
+└─────────────────────────────────────────────────────────────────────┘
+​
+<img src="./assets/chrome-divider.svg" width="100%"/>
+<div align="center">
+🌐 TECH STACK // aprendiendo
+<img src="https://skillicons.dev/icons?i=html,css,js,py,react,php,laravel,java,mysql,sqlite,aws,azure,figma,git,vscode,github&theme=dark&perline=8"/>
+<img src="https://img.shields.io/badge/Oracle_DB-ECE9D8?style=for-the-badge&logo=oracle&logoColor=F80000">
+</div>
+<img src="./assets/chrome-divider.svg" width="100%"/>
+<div align="center">
+📊 SKILL LEVEL
+<img src="./assets/skills-bars.svg" alt="Skill level per technology" width="760"/>
+</div>
+<img src="./assets/chrome-divider.svg" width="100%"/>
+<div align="center">
+📟 CONNECT
+<a href="https://github.com/Elsebascrazy">
+<img src="https://img.shields.io/badge/GITHUB-1c5fc7?style=for-the-badge&logo=github&logoColor=ECE9D8">
+</a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Elsebascrazy&style=for-the-badge&color=1c5fc7&label=VISITORS"/>
+<br/><br/>
+<sub>◄   <a href="#readme">TOP</a>  •  <a href="https://github.com/Elsebascrazy">PROFILE</a>  •  <a href="#tech-stack--aprendiendo">STACK</a>   ►</sub>
+<br/><br/>
+<img src="./assets/y2k-taskbar.svg" alt="taskbar" width="900"/>
+</div>
