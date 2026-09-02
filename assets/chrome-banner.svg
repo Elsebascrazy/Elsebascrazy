@@ -65,7 +65,7 @@
   <path d="M690 90 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4 Z" fill="#ffffff" opacity="0.9"/>
   <path d="M180 165 l3 7 l7 3 l-7 3 l-3 7 l-3 -7 l-7 -3 l7 -3 Z" fill="#ffffff" opacity="0.8"/>
 
-  <text x="450" y="200" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="4" fill="#0a3a8a">PERSONAL HOMEPAGE // WEB DESIGNER ARCHIVE</text>
+  <text x="450" y="200" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="4" fill="#0a3a8a"></text>
 
   <!-- marquee ticker -->
   <rect x="14" y="234" width="872" height="26" rx="13" fill="#0a3a8a" opacity="0.55"/>
