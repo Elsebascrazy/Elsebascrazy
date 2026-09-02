@@ -73,7 +73,6 @@
   <clipPath id="marqueeClip"><rect x="16" y="234" width="868" height="26"/></clipPath>
   <g clip-path="url(#marqueeClip)">
     <text x="900" y="252" font-family="Consolas, monospace" font-size="14" letter-spacing="2" fill="#ffffff">
-      * WEB DESIGNER ARCHIVE * PORTFOLIO ONLINE * THANKS FOR VISITING * WEB DESIGNER ARCHIVE * PORTFOLIO ONLINE * THANKS FOR VISITING *
       <animate attributeName="x" from="900" to="-1500" dur="20s" repeatCount="indefinite"/>
     </text>
   </g>
