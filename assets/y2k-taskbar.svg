@@ -31,8 +31,6 @@
 <circle cx="182" cy="30" r="4" fill="#ffe08a"/>
 <text x="192" y="35" font-family="Consolas, monospace" font-size="13" fill="#eaf6ff">sebas-profile.exe</text>
 
-<rect x="640" y="16" width="160" height="28" rx="4" fill="#000000" opacity="0.55"/>
-<text x="650" y="36" font-family="Consolas, monospace" font-size="13" font-weight="700" fill="#66ff99">HITS: 004821</text>
 
 <circle cx="825" cy="30" r="9" fill="#8fc7f2" stroke="#0a3a8a" stroke-width="1.5"/>
 <path d="M818 30 h14 M825 23 v14 M820 25 q5 5 10 0 M820 35 q5 -5 10 0" stroke="#0a3a8a" stroke-width="1" fill="none"/>
