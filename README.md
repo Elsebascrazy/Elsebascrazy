@@ -35,8 +35,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,py,react,php,laravel,java,mysql,sqlite,aws,azure,figma,git,vscode,github&theme=dark&perline=8"/>
 
-<img src="https://img.shields.io/badge/Oracle_DB-ECE9D8?style=for-the-badge&logo=oracle&logoColor=F80000">
-
 </div>
 
 <img src="./assets/chrome-divider.svg" width="100%"/>
