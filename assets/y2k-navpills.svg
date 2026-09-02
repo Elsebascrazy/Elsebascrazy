@@ -1,0 +1,51 @@
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="pillGreen" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#a8e063"/>
+    <stop offset="50%" stop-color="#56ab2f"/>
+    <stop offset="100%" stop-color="#2d6a12"/>
+  </linearGradient>
+  <linearGradient id="pillBlue" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#8fc7f2"/>
+    <stop offset="50%" stop-color="#1c5fc7"/>
+    <stop offset="100%" stop-color="#0a3a8a"/>
+  </linearGradient>
+  <linearGradient id="pillOrange" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ffe08a"/>
+    <stop offset="50%" stop-color="#f5a623"/>
+    <stop offset="100%" stop-color="#b9720c"/>
+  </linearGradient>
+  <linearGradient id="pillPink" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ff9ec4"/>
+    <stop offset="50%" stop-color="#e8447b"/>
+    <stop offset="100%" stop-color="#9c1f4d"/>
+  </linearGradient>
+  <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+
+<g font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="18" text-anchor="middle">
+  <g>
+    <rect x="20" y="14" width="195" height="52" rx="26" fill="url(#pillGreen)" stroke="#1d4a0d" stroke-width="2"/>
+    <rect x="24" y="18" width="187" height="22" rx="11" fill="url(#gloss)"/>
+    <text x="117" y="47" fill="#ffffff" stroke="#1d4a0d" stroke-width="0.5">★ ABOUT ME</text>
+  </g>
+  <g>
+    <rect x="235" y="14" width="195" height="52" rx="26" fill="url(#pillBlue)" stroke="#062660" stroke-width="2"/>
+    <rect x="239" y="18" width="187" height="22" rx="11" fill="url(#gloss)"/>
+    <text x="332" y="47" fill="#ffffff" stroke="#062660" stroke-width="0.5">✦ TECH STACK</text>
+  </g>
+  <g>
+    <rect x="450" y="14" width="195" height="52" rx="26" fill="url(#pillOrange)" stroke="#7a4b08" stroke-width="2"/>
+    <rect x="454" y="18" width="187" height="22" rx="11" fill="url(#gloss)"/>
+    <text x="547" y="47" fill="#7a4b08" stroke="#ffe08a" stroke-width="0.3">▲ SKILLS</text>
+  </g>
+  <g>
+    <rect x="665" y="14" width="215" height="52" rx="26" fill="url(#pillPink)" stroke="#6b1536" stroke-width="2"/>
+    <rect x="669" y="18" width="207" height="22" rx="11" fill="url(#gloss)"/>
+    <text x="772" y="47" fill="#ffffff" stroke="#6b1536" stroke-width="0.5">♥ CONNECT</text>
+  </g>
+</g>
+</svg>
