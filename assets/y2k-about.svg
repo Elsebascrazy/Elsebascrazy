@@ -1,0 +1,88 @@
+<svg width="900" height="330" viewBox="0 0 900 330" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="titlebar2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#3f8cf3"/>
+    <stop offset="45%" stop-color="#1c5fc7"/>
+    <stop offset="100%" stop-color="#0a3a8a"/>
+  </linearGradient>
+  <linearGradient id="body2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#f4f8ff"/>
+    <stop offset="100%" stop-color="#dfeaff"/>
+  </linearGradient>
+  <linearGradient id="frameGrey" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#c6ccd6"/>
+    <stop offset="100%" stop-color="#5a6272"/>
+  </linearGradient>
+  <radialGradient id="avatarBack" cx="50%" cy="45%" r="60%">
+    <stop offset="0%" stop-color="#eef1f5"/>
+    <stop offset="100%" stop-color="#b7bec9"/>
+  </radialGradient>
+  <clipPath id="aboutPanelClip"><rect x="0" y="0" width="900" height="330" rx="14"/></clipPath>
+  <clipPath id="avatarCircleClip"><circle cx="80" cy="80" r="62"/></clipPath>
+</defs>
+
+<rect x="0" y="0" width="900" height="330" rx="14" fill="url(#body2)"/>
+<rect x="1" y="1" width="898" height="328" rx="13" fill="none" stroke="#0a3a8a" stroke-width="2"/>
+
+<g clip-path="url(#aboutPanelClip)">
+  <rect x="0" y="0" width="900" height="42" fill="url(#titlebar2)"/>
+  <rect x="0" y="0" width="900" height="14" fill="#ffffff" opacity="0.3"/>
+</g>
+<g transform="translate(16,12)">
+  <rect x="0" y="0" width="9" height="9" fill="#c8ccd4"/>
+  <rect x="10" y="0" width="9" height="9" fill="#8891a0"/>
+  <rect x="0" y="10" width="9" height="9" fill="#8891a0"/>
+  <rect x="10" y="10" width="9" height="9" fill="#c8ccd4"/>
+</g>
+<text x="40" y="27" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#ffffff" letter-spacing="1">about_me.html - Windows Editor</text>
+<g>
+  <rect x="822" y="12" width="16" height="14" rx="2" fill="#d9e4f5" stroke="#0a3a8a" stroke-width="1"/>
+  <line x1="825" y1="23" x2="835" y2="23" stroke="#0a3a8a" stroke-width="1.3"/>
+  <rect x="844" y="12" width="16" height="14" rx="2" fill="#d9e4f5" stroke="#0a3a8a" stroke-width="1"/>
+  <rect x="847" y="15" width="10" height="7" fill="none" stroke="#0a3a8a" stroke-width="1.1"/>
+  <rect x="866" y="12" width="16" height="14" rx="2" fill="#e88" stroke="#7a1010" stroke-width="1"/>
+  <path d="M869 15 l9 8 M878 15 l-9 8" stroke="#5a0505" stroke-width="1.3"/>
+</g>
+
+<!-- avatar frame : plain grey generic-user icon -->
+<g transform="translate(40,64)">
+  <rect x="-6" y="-6" width="172" height="192" rx="14" fill="url(#frameGrey)" stroke="#2f333c" stroke-width="3"/>
+  <rect x="0" y="0" width="160" height="160" rx="8" fill="#eef1f5"/>
+  <circle cx="80" cy="80" r="62" fill="url(#avatarBack)" stroke="#8891a0" stroke-width="2"/>
+  <g clip-path="url(#avatarCircleClip)">
+    <circle cx="80" cy="60" r="26" fill="#7d8593"/>
+    <ellipse cx="80" cy="150" rx="52" ry="46" fill="#7d8593"/>
+  </g>
+  <text x="80" y="185" font-family="Consolas, monospace" font-size="12" fill="#3c4250" text-anchor="middle" font-weight="700">sebas.ico</text>
+</g>
+
+<!-- name + bio -->
+<g transform="translate(232,56)">
+  <text x="0" y="34" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900" fill="#0a3a8a">SEBAS</text>
+  <text x="0" y="56" font-family="Consolas, monospace" font-size="13" fill="#5a6272" letter-spacing="1">Software Engineering Student  |  Mexico</text>
+
+  <g transform="translate(0,68)">
+    <circle cx="5" cy="-4" r="4" fill="#56ab2f"/>
+    <text x="16" y="0" font-family="Consolas, monospace" font-size="12" font-weight="700" fill="#2d6a12">STATUS: ONLINE</text>
+  </g>
+
+  <rect x="0" y="82" width="620" height="1" fill="#8fc7f2"/>
+
+  <text x="0" y="110" font-family="Consolas, monospace" font-size="14" fill="#12141c">Hi, I'm Sebas -- a Software Engineering student.</text>
+  <text x="0" y="132" font-family="Consolas, monospace" font-size="14" fill="#12141c">Currently learning Python, React, Laravel and Java.</text>
+  <text x="0" y="154" font-family="Consolas, monospace" font-size="14" fill="#12141c">Interested in cloud architecture (AWS, Azure) and</text>
+  <text x="0" y="176" font-family="Consolas, monospace" font-size="14" fill="#12141c">web design. This profile keeps growing as I learn.</text>
+
+  <text x="0" y="204" font-family="Consolas, monospace" font-size="12" fill="#7a4b08" font-style="italic">"destiny can be changed only in the present"</text>
+
+  <!-- status pills -->
+  <g transform="translate(0,222)" font-family="Consolas, monospace" font-size="11" font-weight="700">
+    <rect x="0" y="0" width="90" height="24" rx="12" fill="#eaf6ff" stroke="#1c5fc7" stroke-width="1.5"/>
+    <text x="45" y="16" text-anchor="middle" fill="#0a3a8a">STUDENT</text>
+    <rect x="102" y="0" width="150" height="24" rx="12" fill="#eaf6ff" stroke="#1c5fc7" stroke-width="1.5"/>
+    <text x="177" y="16" text-anchor="middle" fill="#0a3a8a">CLOUD CURIOUS</text>
+    <rect x="264" y="0" width="130" height="24" rx="12" fill="#eaf6ff" stroke="#1c5fc7" stroke-width="1.5"/>
+    <text x="329" y="16" text-anchor="middle" fill="#0a3a8a">WEB DESIGN</text>
+  </g>
+</g>
+</svg>
