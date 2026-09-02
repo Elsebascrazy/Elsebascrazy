@@ -53,7 +53,7 @@
     <circle cx="80" cy="60" r="26" fill="#7d8593"/>
     <ellipse cx="80" cy="150" rx="52" ry="46" fill="#7d8593"/>
   </g>
-  <text x="80" y="185" font-family="Consolas, monospace" font-size="12" fill="#3c4250" text-anchor="middle" font-weight="700">sebas.ico</text>
+  <text x="80" y="185" font-family="Consolas, monospace" font-size="12" fill="#3c4250" text-anchor="middle" font-weight="700"></text>
 </g>
 
 <!-- name + bio -->
